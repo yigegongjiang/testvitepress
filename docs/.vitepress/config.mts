@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "geektime",
   description: "geektime md",
-  base: '/geektime/c/',
+  // base: '/geektime/c/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
