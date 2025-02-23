@@ -9,6 +9,6 @@ hero:
   actions:
     - theme: brand
       text: C
-      link: /C/index.html
+      link: /c/index.html
 ---
 
